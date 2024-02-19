@@ -1,18 +1,26 @@
 #EXTm3u
 
-################################################################# INFORMAÇÕES
+#### PL Testes
 
-#EXTINF:-1 tvg-logo="https://imgur.com/3z7lsrK.png" group-title="PIX/DOAÇÃO",manotv29@gmail.com
-http://manoplus.ddns.net/mano.mp4
+#EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0AVLnGG.png" group-title="QUER UM TEST D 12horas",MUITO MAIS CONTEÚDO 
-http://manoplus.ddns.net/mano.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0AVLnGG.png" group-title="QUER UM TEST D 12horas",Whats 75991634025
-http://manoplus.ddns.net/mano.mp4
- 
+#EXTINF:-1 tvg-logo="" group-title="",
 
-################################################################# BOM DIA, VERÔNICA S01
+
+#EXTINF:-1 tvg-logo="" group-title="",
+
+#### RN Testes
+
+#EXTINF:-1 tvg-logo="" group-title="",
+
+
+#EXTINF:-1 tvg-logo="" group-title="",
+
+
+#EXTINF:-1 tvg-logo="" group-title="",
+
+#### BOM DIA, VERÔNICA S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/maw8n8u.png" group-title="Série | BOM DIA, VERÔNICA S01",S01 E01
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/110115/1x1.mp4
