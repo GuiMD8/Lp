@@ -15,3 +15,9 @@ https://m3u8.bz/a2/docs/fx/__index.m3u8?mu3zAQc9HC3GbwJq=GDftUZjE-klhlSkp7XWbBA&
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes", AXN
 https://m3u8.bz/a2/docs/axn/__index.m3u8?mu3zAQc9HC3GbwJq=abzNMNGxrdykzKXS7BQn5w&3U1G7qaTxrPbalZnEx=1708402635
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes", TC Fun
+https://hlsplus.online/p2p/tlcfun/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI0IDg6MjA6MDIgUE0maGFzaF92YWx1ZT0vMFRnRnFLTGpPdGVqeVlRVGJ4aG9nPT0mdmFsaWRtaW51dGVzPTE2MA==
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes", TC Fun 2
+https://hlsplus.online:443/p2p/tlcfun/chunks.m3u8?nimblesessionid=4880557&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI0IDg6MjA6MDIgUE0maGFzaF92YWx1ZT0vMFRnRnFLTGpPdGVqeVlRVGJ4aG9nPT0mdmFsaWRtaW51dGVzPTE2MA==
