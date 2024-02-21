@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/br.xml"
+#PLAYLISTV: pltv-logo="" pltv-name="Teste" pltv-description="" pltv-cover="" pltv-author="" pltv-site="" pltv-email=""
+
 
 #### Pluto
 
@@ -58,6 +60,183 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Filmes" size="Small",Pluto Tv Cine Família
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=-20.2300&deviceLon=-41.5100&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=3a6fbdd5-73d6-44e8-273f-7eb9600b5bcd&userId=
 
+#### Séries
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Séries" size="Medium",
+
+#### Retrô
+
+#EXTINF:0 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Retrô" size="Small",Pluto TV Retrô
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=-20.2300&deviceLon=-41.5100&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=3a6fbdd5-73d6-44e8-273f-7eb9600b5bcd&userId=
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Retrô" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Retrô" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Retrô" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Retrô" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Retrô" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Retrô" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Retrô" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Retrô" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Retrô" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Retrô" size="Medium",
+
+#### Reality
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Reality" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Reality" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Reality" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Reality" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Reality" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Reality" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Reality" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Reality" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Reality" size="Medium",
+
+#### Curiosidades
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Curiosidades" size="Medium",
+
+#### Investigação
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Investigação" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Investigação" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Investigação" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Investigação" size="Medium",
+
+#### Notícias
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Notícias" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Notícias" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Notícias" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Notícias" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Notícias" size="Medium",
+
+#### Esportes
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Esportes" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Esportes" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Esportes" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Esportes" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Esportes" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Esportes" size="Medium",
+
+#### Comédia
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Comédia" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Comédia" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Comédia" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Comédia" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Comédia" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Comédia" size="Medium",
+
+##### Entretenimento
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Entretenimento" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Entretenimento" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Entretenimento" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Entretenimento" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Entretenimento" size="Medium",
+
+#### Estilo de vida
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Estilo de vida" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Estilo de vida" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Estilo de vida" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Estilo de vida" size="Medium",
+
 #### Anime & Geek
 
 #EXTINF:0 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Anime & Geek" size="Small",Pluto TV Anime
@@ -66,7 +245,93 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0 tvg-id="" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Anime & Geek" size="Small",Pluto TV Anime Ação
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=-20.2300&deviceLon=-41.5100&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=3a6fbdd5-73d6-44e8-273f-7eb9600b5bcd&userId=
 
-#### Retrô
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
 
-#EXTINF:0 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Retrô" size="Small",Pluto TV Retrô
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=unknown&deviceLat=-20.2300&deviceLon=-41.5100&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=3a6fbdd5-73d6-44e8-273f-7eb9600b5bcd&userId=
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Anime & Geek" size="Medium",
+
+#### Teen
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Teen" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Teen" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Teen" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Teen" size="Medium",
+
+#### Infantil
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Infantil" size="Medium",
+
+#### Música
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Música" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Música" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Música" size="Medium",
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Música" size="Medium",
+
