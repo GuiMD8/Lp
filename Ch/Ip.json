@@ -1,5 +1,25 @@
 #EXTM3U
 
+#### Documentários
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Small",Discovery Channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Small",Discovery Home & Health
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Small",Discovery Science
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Small",Discovery Theater
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Small",Discovery Turbo
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Small",Discovery World
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Small",ID
+
+
+
+
+
 #### Filmes e Séries
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Small",A&E
