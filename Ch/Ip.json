@@ -14,13 +14,14 @@ http://smart646.com:80/7950568560/7786552384/34.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Sony Channel
 http://smart646.com:80/7950568560/7786552384/234914.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Cine Sucessos
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-logo="" group-title="Filmes e Séries" size="Medium",Cine Sucessos
 http://smart646.com:80/7950568560/7786552384/166180.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="" group-title="Filmes e Séries" size="Medium",Cinemax
 http://smart646.com:80/7950568560/7786552384/81.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="",
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="" group-title="Filmes e Séries" size="",Comedy Central
+http://smart646.com:80/7950568560/7786552384/40.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="",
 
