@@ -1,5 +1,19 @@
 #EXTM3U
 
-#### Filmes
+#### Filmes e Séries
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Filmes" size="",
+#EXTINF:-1 
+tvg-id="" 
+tvg-logo="" 
+group-title="Filmes e Séries" 
+size=""
+,A&E
+http://smart646.com:80/7950568560/7786552384/32.ts
+
+#EXTINF:0 
+tvg-id="" 
+tvg-logo="" 
+group-title="Filmes e Séries" 
+size=""
+,AMC
+http://smart646.com:80/7950568560/7786552384/175.ts
