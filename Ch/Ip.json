@@ -18,12 +18,14 @@
 
 #### Esportes
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" size="Small",ESPN
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="" group-title="Esportes" size="Small",ESPN
 http://smart646.com:80/7950568560/7786552384/313125.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" size="Small",Premiere 2
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="" group-title="" size="Small",Premiere
+http://smart646.com:80/7950568560/7786552384/234464.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" size="Small",Premiere 3
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="" group-title="" size="Small",SporTV
+http://smart646.com:80/7950568560/7786552384/234838.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" size="Small",Premiere 4
 
