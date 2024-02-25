@@ -2,9 +2,11 @@
 
 #### Documentários
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Small",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="" group-title="Documentários" size="Small",Discovery Channel
+http://smart646.com:80/7950568560/7786552384/234802.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Small",Discovery Home & Health
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="" group-title="Documentários" size="Small",Discovery Home & Health
+http://smart646.com:80/7950568560/7786552384/234806.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Small",Discovery Science
 
