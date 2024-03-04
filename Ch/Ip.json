@@ -36,10 +36,12 @@ http://smart646.com:80/7950568560/7786552384/234838.ts
 
 #### Filmes e Séries
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-logo="" group-title="Filmes e Séries" size="Small" background="#5cbbee",
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="" group-title="Filmes e Séries" size="Small",
+#EXTBG:#146794
 http://smart646.com:80/7950568560/7786552384/32.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Small",AMC
+#EXTBG:#941484
 http://smart646.com:80/7950568560/7786552384/175.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Small",AXN
