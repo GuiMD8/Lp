@@ -34,6 +34,9 @@ http://smart646.com:80/7950568560/7786552384/234464.ts
 #EXTINF:-1 tvg-id="SporTV.br" tvg-logo="" group-title="Esportes" size="Medium",SporTV
 http://smart646.com:80/7950568560/7786552384/234838.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes" size="Medium",TNT Sports
+http://smart646.com:80/686028/key5f0e5x0L/123.ts
+
 #### Filmes e Séries
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-logo="" group-title="Filmes e Séries" size="Medium",A&E
