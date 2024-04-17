@@ -1,161 +1,42 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml"
-
-#### Documentários
-
-#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="" group-title="Documentários" size="Medium",Discovery Channel
-http://smart646.com:80/7950568560/7786552384/234802.ts
-
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-logo="" group-title="Documentários" size="Medium",Discovery Home & Health
-http://smart646.com:80/7950568560/7786552384/234806.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Medium",Discovery Science
-http://smart646.com:80/7950568560/7786552384/234814.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Medium",Discovery Theater
-http://smart646.com:80/7950568560/7786552384/234818.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Medium",Discovery Turbo
-http://smart646.com:80/7950568560/7786552384/234822.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Medium",Discovery World
-http://smart646.com:80/7950568560/7786552384/234826.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários" size="Medium",ID
-http://smart646.com:80/7950568560/7786552384/235013.ts
-
-#### Esportes
-
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="" group-title="Esportes" size="Medium",ESPN
-http://smart646.com:80/7950568560/7786552384/313125.ts
-
-#EXTINF:-1 tvg-id="Premierefc.br" tvg-logo="" group-title="Esportes" size="Medium",Premiere
-http://smart646.com:80/7950568560/7786552384/234464.ts
-
-#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="" group-title="Esportes" size="Medium",SporTV
-http://smart646.com:80/7950568560/7786552384/234838.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes" size="Medium",TNT Sports
-http://smart646.com:80/686028/key5f0e5x0L/123.ts
-
-#### Filmes e Séries
-
-#EXTINF:-1 tvg-id="Ae.br" tvg-logo="" group-title="Filmes e Séries" size="Medium",A&E
-#EXTBG:#146794
-http://smart646.com:80/7950568560/7786552384/32.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",AMC
-#EXTBG:#941484
-http://smart646.com:80/7950568560/7786552384/175.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",AXN
-http://smart646.com:80/7950568560/7786552384/34.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Cinemax
-http://smart646.com:80/7950568560/7786552384/234928.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Comedy Central
-http://smart646.com:80/7950568560/7786552384/234939.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Film & Arts
-http://smart646.com:80/7950568560/7786552384/234985.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",FX
-http://smart646.com:80/7950568560/7786552384/90.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",HBO
-http://smart646.com:80/7950568560/7786552384/234475.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",HBO 2
-http://smart646.com:80/7950568560/7786552384/234467.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",HBO Family
-http://smart646.com:80/7950568560/7786552384/118.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",HBO Mundi
-http://smart646.com:80/7950568560/7786552384/95.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",HBO Plus
-http://smart646.com:80/7950568560/7786552384/234478.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",HBO Pop
-http://smart646.com:80/7950568560/7786552384/234485.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",HBO Signature
-http://smart646.com:80/7950568560/7786552384/234488.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",HBO Xtreme
-http://smart646.com:80/7950568560/7786552384/234491.ts
-
-#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="" group-title="Filmes e Séries" size="Medium",Megapix
-http://smart646.com:80/7950568560/7786552384/235031.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Paramount Network
-http://smart646.com:80/7950568560/7786552384/235076.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Sony Channel
-http://smart646.com:80/7950568560/7786552384/234914.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Space
-http://smart646.com:80/7950568560/7786552384/235103.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Star Channel
-http://smart646.com:80/7950568560/7786552384/235107.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Studio Universal
-http://smart646.com:80/7950568560/7786552384/235111.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Telecine Action
-http://smart646.com:80/7950568560/7786552384/234495.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Telecine Cult
-http://smart646.com:80/7950568560/7786552384/234499.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Telecine Fun
-http://smart646.com:80/7950568560/7786552384/234502.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Telecine Pipoca
-http://smart646.com:80/7950568560/7786552384/63.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Telecine Premium
-http://smart646.com:80/7950568560/7786552384/62.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Telecine Touch
-http://smart646.com:80/7950568560/7786552384/234511.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",TNT
-http://smart646.com:80/7950568560/7786552384/235130.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",TNT Novelas
-http://smart646.com:80/7950568560/7786552384/235120.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",TNT Series
-http://smart646.com:80/7950568560/7786552384/235135.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",USA
-http://smart646.com:80/7950568560/7786552384/235116.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",Warner Channel
-http://smart646.com:80/7950568560/7786552384/235179.ts
-
-#### Infantis
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantis" size="Medium",Boomerangue
-http://smart646.com:80/7950568560/7786552384/234898.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantis" size="Medium",Cartoonito
-http://smart646.com:80/7950568560/7786552384/235213.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantis" size="Medium",Cartoon Network
-http://smart646.com:80/7950568560/7786552384/234926.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantis" size="Medium",Discovery Kids
-http://smart646.com:80/7950568560/7786552384/234810.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantis" size="Medium",Disney Channel
-http://smart646.com:80/7950568560/7786552384/234962.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantis" size="Medium",Nickelodeon
-http://smart646.com:80/7950568560/7786552384/235072.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantis" size="Medium",Nick JR
-http://smart646.com:80/7950568560/7786552384/235068.ts
+{
+  "groupTitle": "Documentários,
+  "channels": [
+    {
+      "displayName": "Discovery Channel",
+      "logoURL": "",
+      "streamURLs": [
+        ""
+      ]
+    }
+  ]
+  "groupTitle": "Filmes e Séries,
+  "channels": [
+    {
+      "displayName": "Discovery Channel",
+      "logoURL": "",
+      "streamURLs": [
+        ""
+      ]
+    }
+  ]
+  "groupTitle": "Infantis,
+  "channels": [
+    {
+      "displayName": "Discovery Channel",
+      "logoURL": "",
+      "streamURLs": [
+        ""
+      ]
+    }
+  ]
+  "groupTitle": "Esportes,
+  "channels": [
+    {
+      "displayName": "TNT Sports",
+      "logoURL": "",
+      "streamURLs": [
+        "http://smart646.com:80/686028/key5f0e5x0L/123.ts"
+      ]
+    }
+  ]
+}
