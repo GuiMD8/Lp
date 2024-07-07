@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml"
 
+#### Abertos
+
+#EXTINF:-1 tvg-id="Globo" tvg-logo="" group-title="Abertos" size="Medium",Globo
+
+
 #### Documentários
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-logo="" group-title="Documentários" size="Medium",Discovery Channel
