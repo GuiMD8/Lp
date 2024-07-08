@@ -5,6 +5,18 @@
 #EXTINF:-1 tvg-id="Globo" tvg-logo="" group-title="Abertos" size="Medium",Globo
 http://smart646.com:80/686028/key5f0e5x0L/27430.ts
 
+#EXTINF:-1 tvg-id="SBT" tvg-logo="" group-title="Abertos" size="Medium",SBT
+http://smart646.com:80/686028/key5f0e5x0L/2124.ts
+
+#EXTINF:-1 tvg-id="Band" tvg-logo="" group-title="Abertos" size="Medium",Band Rio
+http://smart646.com:80/686028/key5f0e5x0L/405487.ts
+
+#EXTINF:-1 tvg-id="Band" tvg-logo="" group-title="Abertos" size="Medium",Band SP
+http://smart646.com:80/686028/key5f0e5x0L/234889.ts
+
+#EXTINF:-1 tvg-id="Record" tvg-logo="" group-title="Abertos" size="Medium",Record
+http://smart646.com:80/686028/key5f0e5x0L/75.ts
+
 #### Documentários
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-logo="" group-title="Documentários" size="Medium",Discovery Channel
