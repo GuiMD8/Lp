@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml"
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="E-Sports" size="Medium",Flaesportes
-https://video-weaver.rio04.hls.ttvnw.net/v1/playlist/CtcFr9i0BkLk3E_l-BedD0tcA_LzFXkYk-ixKcxjEIObqrMqenkD7ZcprA8V3XfuKnPdCRrugDMEGUD0VaEwWrJoV-HwxLS3luLDUg5xStgKp5ObQrHxkMwzghtXJTfrsvdh5d5kmhs_IBjXPSSxLcf4KfTLSpGIJoEnhfwV75s1h1F_bY5b05c1vkYPy4SEZFCKNsv0t0sRkL4LhXn1XmZorjCsi4gHims5gzUDTaJM_EuDT5LVS1A3kM0yR9YbcwGXli233rF3MCUwwVtQr5GKu90XbLuC6X1ZWodKNeWRmKqATlrFANeAeHNq8pGLYZFXgLEtXpqhiL0cnlf9B1G4CXmcwXZDW3InQxfBiGe6faw8G-YaEnsqdjO3-rK3597ElEnrSVZugKpsETz7TriBctc-r7ei16K8kK5vKyXoCfdj5HkD3GzCTMn6Qi-quG06XI2G8-6X_ghuo9DYBy22EThvtxyDEg2bkadWrZa3Uf1-w_tjlq3TKF1P6guWOgampoZ1ufXtyc8ptC6Hks62kZpSfY2FGPAr55E16E4kasfI1hmmqLCAWUE8dQfgHvvyPs6zXSXeqWbli-76_hLU5gJyqCKEfbRHDVRW3vEZnk_WNZSegolNVon1RbyYErHKT1efdgLub9V8Eem1pgva-fnf095-mf0g5s1QTxYy1Gq_E0ghoAUI9PTvU9Bl_PMH3IO3Z_oH8-UnJdK1YQdT0B1L1Ifdljx_icOGE8nE0Igd0EMDgXZv7nlsdibkhbCthUEC40PnBpi6BDTB5FZxXHw0YSECCXSakDhKFP3UUQa9js5EZiHRGZHGzjY-W1SwdeXbHan8lQwrt1ilS2vrhBcMgXmm5PDftsCqlmFrlmnpQQq1UXa9kc4cfqpM4U9CbMCpaW7MjI0HEJRCR68-l7phTn5xQi8LA00M2_TJPy5xDI7whANThk10gdh1WW30NJq3wnP5FhoMbb6ZJ7Y_VbUDqwDPIAEqCXVzLWVhc3QtMTCrCA.m3u8
-
 #### Abertos
 
 #EXTINF:-1 tvg-id="Globo" tvg-logo="" group-title="Abertos" size="Medium",Globo
@@ -144,7 +141,7 @@ http://smart646.com:80/686028/key5f0e5x0L/234508.ts
 http://smart646.com:80/686028/key5f0e5x0L/234511.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",TNT
-http://smart646.com:80/686028/key5f0e5x0L/235131.ts
+http://smart646.com:80/686028/key5f0e5x0L/123.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries" size="Medium",TNT Novelas
 http://smart646.com:80/686028/key5f0e5x0L/235120.ts
