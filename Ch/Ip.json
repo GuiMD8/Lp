@@ -1,5 +1,28 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml"
 
+#### Prime
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIME VIDEO 01
+http://smart646.com:80/686028/key5f0e5x0L/369484.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIMEVIDEO 01²" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIMEVIDEO 01²
+http://smart646.com:80/686028/key5f0e5x0L/369485.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01³" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIME VIDEO 01³
+http://smart646.com:80/686028/key5f0e5x0L/369486.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIME VIDEO 02
+http://smart646.com:80/686028/key5f0e5x0L/369487.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIMEVIDEO 02²" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIMEVIDEO 02²
+http://smart646.com:80/686028/key5f0e5x0L/369488.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02³" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIME VIDEO 02³
+http://smart646.com:80/686028/key5f0e5x0L/369489.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 03" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIME VIDEO 03
+http://smart646.com:80/686028/key5f0e5x0L/369490.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIMEVIDEO 03²" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIMEVIDEO 03²
+http://smart646.com:80/686028/key5f0e5x0L/369491.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 03³" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIME VIDEO 03³
+http://smart646.com:80/686028/key5f0e5x0L/369492.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 04" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIME VIDEO 04
+http://smart646.com:80/686028/key5f0e5x0L/369493.ts
+
 #### Abertos
 
 #EXTINF:-1 tvg-id="Globo" tvg-logo="" group-title="Abertos" size="Medium",Globo
