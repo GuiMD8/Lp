@@ -1,5 +1,77 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml"
 
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN SD
+http://smart646.com:80/686028/key5f0e5x0L/1014.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD²" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN SD²
+http://smart646.com:80/686028/key5f0e5x0L/313128.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN HD
+http://smart646.com:80/686028/key5f0e5x0L/2053.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD²" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN HD²
+http://smart646.com:80/686028/key5f0e5x0L/234843.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN FHD H265²
+http://smart646.com:80/686028/key5f0e5x0L/313126.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN FHD H265
+http://smart646.com:80/686028/key5f0e5x0L/1013.ts
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD²" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="CANAIS | ESPN",ESPN FHD²
+http://smart646.com:80/686028/key5f0e5x0L/313125.ts
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 SD" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 SD
+http://smart646.com:80/686028/key5f0e5x0L/2051.ts
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 SD²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 SD²
+http://smart646.com:80/686028/key5f0e5x0L/234852.ts
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 HD" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 HD
+http://smart646.com:80/686028/key5f0e5x0L/348.ts
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 HD²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 HD²
+http://smart646.com:80/686028/key5f0e5x0L/234851.ts
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 FHD²
+http://smart646.com:80/686028/key5f0e5x0L/234850.ts
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 FHD H265" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 FHD H265
+http://smart646.com:80/686028/key5f0e5x0L/144.ts
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 2 FHD H265²" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 2 FHD H265²
+http://smart646.com:80/686028/key5f0e5x0L/234849.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 SD" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 SD
+http://smart646.com:80/686028/key5f0e5x0L/2052.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 SD²" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 SD²
+http://smart646.com:80/686028/key5f0e5x0L/234856.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HD" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 HD
+http://smart646.com:80/686028/key5f0e5x0L/273.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 HD²" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 HD²
+http://smart646.com:80/686028/key5f0e5x0L/234855.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD²" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 FHD²
+http://smart646.com:80/686028/key5f0e5x0L/234854.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD H265" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 FHD H265
+http://smart646.com:80/686028/key5f0e5x0L/42.ts
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD H265²" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="CANAIS | ESPN",ESPN 3 FHD H265²
+http://smart646.com:80/686028/key5f0e5x0L/234853.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 SD" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 SD
+http://smart646.com:80/686028/key5f0e5x0L/194.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 SD²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 SD²
+http://smart646.com:80/686028/key5f0e5x0L/234860.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 HD
+http://smart646.com:80/686028/key5f0e5x0L/319.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 HD²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 HD²
+http://smart646.com:80/686028/key5f0e5x0L/234859.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 FHD²
+http://smart646.com:80/686028/key5f0e5x0L/234858.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 FHD H265
+http://smart646.com:80/686028/key5f0e5x0L/48.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="CANAIS | ESPN",ESPN 4 FHD H265²
+http://smart646.com:80/686028/key5f0e5x0L/234857.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA SD
+http://smart646.com:80/686028/key5f0e5x0L/2054.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD²" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA SD²
+http://smart646.com:80/686028/key5f0e5x0L/234848.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA HD
+http://smart646.com:80/686028/key5f0e5x0L/274.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD²" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA HD²
+http://smart646.com:80/686028/key5f0e5x0L/234847.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD²" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA FHD²
+http://smart646.com:80/686028/key5f0e5x0L/234846.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA FHD H265
+http://smart646.com:80/686028/key5f0e5x0L/88.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="CANAIS | ESPN",ESPN EXTRA FHD H265²
+http://smart646.com:80/686028/key5f0e5x0L/234845.ts
+
+
 #### Prime
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="http://www.rochagalaxia.live/logos/primevideo250.png" group-title="CANAIS | DAZN |AMAZON PRIME",PRIME VIDEO 01
