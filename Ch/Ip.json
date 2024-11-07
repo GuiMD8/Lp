@@ -1,5 +1,19 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml"
 
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD H265
+http://smart646.com:80/817056/key5f0e5x0L/58.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD H265²
+http://smart646.com:80/817056/key5f0e5x0L/235178.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD²
+http://smart646.com:80/817056/key5f0e5x0L/235179.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD
+http://smart646.com:80/817056/key5f0e5x0L/2220.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD²" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD²
+http://smart646.com:80/817056/key5f0e5x0L/235180.ts
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD
+http://smart646.com:80/817056/key5f0e5x0L/2224.ts
+
+
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 2 FHD H265
 http://smart646.com:80/817056/key5f0e5x0L/71.ts
