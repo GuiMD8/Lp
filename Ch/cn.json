@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml"
+
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD LEG" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | LEGENDADOS",AXN FHD LEG
 http://smart646.com:80/341613/key5f0e5x0L/311537.ts
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD LEG" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | LEGENDADOS",STAR CHANNEL FHD LEG
