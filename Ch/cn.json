@@ -622,17 +622,17 @@ http://smart646.com:80/341613/key5f0e5x0L/235093.ts
 http://smart646.com:80/341613/key5f0e5x0L/2121.ts
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RICTV MARINGA FHD H265" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="CANAIS | RECORD",RICTV MARINGA FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/19924.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD H265" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT",SBT FHD H265
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD H265" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT" size="Medium",SBT FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/2124.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD H265" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT",SBT SP FHD H265
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD H265" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT" size="Medium",SBT SP FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/104.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT",SBT FHD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT" size="Medium",SBT FHD
 http://smart646.com:80/341613/key5f0e5x0L/93496.ts
-#EXTINF:-1 tvg-id="Tvjangadeiro.br" tvg-name="SBT CEARA JANGADEIRO FHD H265" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT",SBT CEARA JANGADEIRO FHD H265
+#EXTINF:-1 tvg-id="Tvjangadeiro.br" tvg-name="SBT CEARA JANGADEIRO FHD H265" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT" size="Medium",SBT CEARA JANGADEIRO FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/26407.ts
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT INTERIOR SP FHD H265" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT",SBT INTERIOR SP FHD H265
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT INTERIOR SP FHD H265" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT" size="Medium",SBT INTERIOR SP FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/2127.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ITAPOAN FHD" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT",SBT ITAPOAN FHD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ITAPOAN FHD" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT" size="Medium",SBT ITAPOAN FHD
 http://smart646.com:80/341613/key5f0e5x0L/276881.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sexy Hot FHD" tvg-logo="http://www.rochagalaxia.live/logos/Sexy_Hot_logo.png" group-title="CANAIS | XXX ADULTOS",Sexy Hot FHD
 http://smart646.com:80/341613/key5f0e5x0L/105.ts
@@ -886,5 +886,5 @@ http://smart646.com:80/341613/key5f0e5x0L/373471.ts
 http://smart646.com:80/341613/key5f0e5x0L/373474.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band RJ FHD" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",Band RJ FHD
 http://smart646.com:80/341613/key5f0e5x0L/405487.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA FHD" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT",SBT BRASILIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA FHD" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="CANAIS | SBT" size="Medium",SBT BRASILIA FHD
 http://smart646.com:80/341613/key5f0e5x0L/424713.ts
