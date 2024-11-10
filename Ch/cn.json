@@ -36,15 +36,15 @@ http://smart646.com:80/341613/key5f0e5x0L/311520.ts
 http://smart646.com:80/341613/key5f0e5x0L/2071.ts
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="CANAIS | GLOBO",GLOBO SP FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/155.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E FHD H265
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",A&E FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/32.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E FHD H265²
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",A&E FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/234861.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD²" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E FHD²
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD²" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",A&E FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234862.ts
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS FHD²" tvg-logo="https://www.rochagalaxia.live/logos/agromais250.png" group-title="CANAIS | NOTICIAS",AGRO MAIS FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234865.ts
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="CANAIS | FILMES E SERIES",AMC FHD H265
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",AMC FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/175.ts
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/33.ts
@@ -58,11 +58,11 @@ http://smart646.com:80/341613/key5f0e5x0L/78.ts
 http://smart646.com:80/341613/key5f0e5x0L/234873.ts
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="CANAIS | VARIEDADES",ARTE1 FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234874.ts
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN FHD H265
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",AXN FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/34.ts
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN FHD H265²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",AXN FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/234877.ts
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD²" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN FHD²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD²" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",AXN FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234878.ts
 #EXTINF:-1 tvg-id="" tvg-name="AZ Corazon FHD" tvg-logo="https://i.ibb.co/rsTGj4N/co-az-corazon-m.png" group-title="CANAIS | MEXICO",AZ Corazon FHD
 http://smart646.com:80/341613/key5f0e5x0L/42532.ts
@@ -114,9 +114,9 @@ http://smart646.com:80/341613/key5f0e5x0L/234908.ts
 http://smart646.com:80/341613/key5f0e5x0L/234910.ts
 #EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF FHD²" tvg-logo="http://www.rochagalaxia.live/logos/canaloff250.png" group-title="CANAIS | ESPORTES",CANAL OFF FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234911.ts
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | FILMES E SERIES",CANAL SONY FHD H265²
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",CANAL SONY FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/234914.ts
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD²" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | FILMES E SERIES",CANAL SONY FHD²
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD²" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",CANAL SONY FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234915.ts
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="CANAL WOOHOO FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png" group-title="CANAIS | ESPORTES",CANAL WOOHOO FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/234918.ts
@@ -134,11 +134,11 @@ http://smart646.com:80/341613/key5f0e5x0L/38.ts
 http://smart646.com:80/341613/key5f0e5x0L/234925.ts
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD²" tvg-logo="https://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234926.ts
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD H265
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES" size="Medium",CINEMAX FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/81.ts
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD H265²
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES" size="Medium",CINEMAX FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/234928.ts
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD²" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD²
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD²" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES" size="Medium",CINEMAX FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234929.ts
 #EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD H265" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="CANAIS | NOTICIAS",CNN BRASIL FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/19651.ts
@@ -152,11 +152,11 @@ http://smart646.com:80/341613/key5f0e5x0L/39.ts
 http://smart646.com:80/341613/key5f0e5x0L/234935.ts
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD²" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234936.ts
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES",COMEDY CENTRAL FHD H265
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",COMEDY CENTRAL FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/40.ts
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES",COMEDY CENTRAL FHD H265²
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",COMEDY CENTRAL FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/234939.ts
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES",COMEDY CENTRAL FHD²
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",COMEDY CENTRAL FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234940.ts
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA FHD²" tvg-logo="http://www.rochagalaxia.live/logos/tv-cultura.png" group-title="CANAIS | ABERTOS",CULTURA FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234954.ts
@@ -262,9 +262,9 @@ http://smart646.com:80/341613/key5f0e5x0L/235218.ts
 http://smart646.com:80/341613/key5f0e5x0L/113.ts
 #EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV FHD²" tvg-logo="https://rochagalaxia.live/logos/FashionTV2019novo.png" group-title="CANAIS | VARIEDADES",FASHION TV FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234981.ts
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM&ARTS FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" group-title="CANAIS | FILMES E SERIES",FILM&ARTS FHD H265²
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM&ARTS FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" group-title="CANAIS | FILMES E SERIES" size="Medium",FILM&ARTS FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/234984.ts
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM&ARTS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" group-title="CANAIS | FILMES E SERIES",FILM&ARTS FHD²
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM&ARTS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" group-title="CANAIS | FILMES E SERIES" size="Medium",FILM&ARTS FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234985.ts
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/fishtv250.png" group-title="CANAIS | VARIEDADES",FISH TV FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/117.ts
@@ -284,11 +284,11 @@ http://smart646.com:80/341613/key5f0e5x0L/49.ts
 http://smart646.com:80/341613/key5f0e5x0L/234996.ts
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/foxsport2250.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234997.ts
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES",FX FHD H265
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",FX FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/90.ts
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES",FX FHD H265²
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",FX FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235000.ts
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD²" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES",FX FHD²
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD²" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES" size="Medium",FX FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235001.ts
 #EXTINF:-1 tvg-id="TVGazetaes.br" tvg-name="GLOBO TV GAZETA SUL ES FHD" tvg-logo="http://rochagalaxia.live/logos/logogazeta.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA SUL ES FHD
 http://smart646.com:80/341613/key5f0e5x0L/27039.ts
@@ -470,23 +470,23 @@ http://smart646.com:80/341613/key5f0e5x0L/94.ts
 http://smart646.com:80/341613/key5f0e5x0L/235018.ts
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD²" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235019.ts
-#EXTINF:-1 tvg-id="Like.br" tvg-name="LIKE FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/LIKE.png" group-title="CANAIS | FILMES E SERIES",LIKE FHD H265
+#EXTINF:-1 tvg-id="Like.br" tvg-name="LIKE FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/LIKE.png" group-title="CANAIS | FILMES E SERIES" size="Medium",LIKE FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/128.ts
-#EXTINF:-1 tvg-id="" tvg-name="LOADING FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/canalloading250.png" group-title="CANAIS | FILMES E SERIES",LOADING FHD H265²
+#EXTINF:-1 tvg-id="" tvg-name="LOADING FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/canalloading250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",LOADING FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235022.ts
-#EXTINF:-1 tvg-id="" tvg-name="LOADING FHD²" tvg-logo="http://www.rochagalaxia.live/logos/canalloading250.png" group-title="CANAIS | FILMES E SERIES",LOADING FHD²
+#EXTINF:-1 tvg-id="" tvg-name="LOADING FHD²" tvg-logo="http://www.rochagalaxia.live/logos/canalloading250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",LOADING FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235023.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/mais%20globosat.png" group-title="CANAIS | DOCUMENTARIOS",MAIS GLOBOSAT FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/129.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAIS NA TELA FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" group-title="CANAIS | FILMES E SERIES",MAIS NA TELA FHD H265²
+#EXTINF:-1 tvg-id="" tvg-name="MAIS NA TELA FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",MAIS NA TELA FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235026.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAIS NA TELA FHD²" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" group-title="CANAIS | FILMES E SERIES",MAIS NA TELA FHD²
+#EXTINF:-1 tvg-id="" tvg-name="MAIS NA TELA FHD²" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",MAIS NA TELA FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235027.ts
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD H265
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES" size="Medium",MEGAPIX FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/145.ts
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD H265²
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES" size="Medium",MEGAPIX FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235030.ts
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD²" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD²
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD²" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES" size="Medium",MEGAPIX FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235031.ts
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MODO VIAGEM FHD²" tvg-logo="https://rochagalaxia.live/logos/modoviagem250.png" group-title="CANAIS | VARIEDADES",MODO VIAGEM FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235225.ts
@@ -532,11 +532,11 @@ http://smart646.com:80/341613/key5f0e5x0L/235072.ts
 http://smart646.com:80/341613/key5f0e5x0L/143.ts
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/Logo_Canal_OFF.png" group-title="CANAIS | VARIEDADES",OFF FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/130.ts
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD H265
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES" size="Medium",PARAMOUNT FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/100.ts
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD H265²
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES" size="Medium",PARAMOUNT FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235076.ts
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD²" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD²
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD²" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES" size="Medium",PARAMOUNT FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235077.ts
 #EXTINF:-1 tvg-id="" tvg-name="PlayBoy FHD" tvg-logo="http://www.rochagalaxia.live/logos/Logotipo_da_Playboy_TV.png" group-title="CANAIS | XXX ADULTOS",PlayBoy FHD
 http://smart646.com:80/341613/key5f0e5x0L/74.ts
@@ -582,7 +582,7 @@ http://smart646.com:80/341613/key5f0e5x0L/70.ts
 http://smart646.com:80/341613/key5f0e5x0L/234463.ts
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234464.ts
-#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/PRIMEBOX.png" group-title="CANAIS | FILMES E SERIES",PRIME BOX BRAZIL FHD²
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/PRIMEBOX.png" group-title="CANAIS | FILMES E SERIES" size="Medium",PRIME BOX BRAZIL FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235080.ts
 #EXTINF:-1 tvg-id="Rai.br" tvg-name="RAI FHD²" tvg-logo="http://www.rochagalaxia.live/logos/raiitalia250.png" group-title="CANAIS | ESPORTES",RAI FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235212.ts
@@ -636,13 +636,13 @@ http://smart646.com:80/341613/key5f0e5x0L/2127.ts
 http://smart646.com:80/341613/key5f0e5x0L/276881.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sexy Hot FHD" tvg-logo="http://www.rochagalaxia.live/logos/Sexy_Hot_logo.png" group-title="CANAIS | XXX ADULTOS",Sexy Hot FHD
 http://smart646.com:80/341613/key5f0e5x0L/105.ts
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/SONY.png" group-title="CANAIS | FILMES E SERIES",SONY FHD H265
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/SONY.png" group-title="CANAIS | FILMES E SERIES" size="Medium",SONY FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/106.ts
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD H265
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES" size="Medium",SPACE FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/67.ts
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD H265²
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES" size="Medium",SPACE FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235103.ts
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD²" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD²
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD²" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES" size="Medium",SPACE FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235104.ts
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234838.ts
@@ -662,31 +662,31 @@ http://smart646.com:80/341613/key5f0e5x0L/69.ts
 http://smart646.com:80/341613/key5f0e5x0L/234833.ts
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD²" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD²
 http://smart646.com:80/341613/key5f0e5x0L/234834.ts
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD H265
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES" size="Medium",STAR CHANNEL FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/44.ts
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD H265²
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES" size="Medium",STAR CHANNEL FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235107.ts
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD²
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES" size="Medium",STAR CHANNEL FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235108.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR LIFE FHD H265" tvg-logo="https://rochagalaxia.live/logos/STARLIFE.png" group-title="CANAIS | VARIEDADES",STAR LIFE FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/45.ts
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FHD H265
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES" size="Medium",STUDIO UNIVERSAL FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/15251.ts
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FHD H265²
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES" size="Medium",STUDIO UNIVERSAL FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235111.ts
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL FHD²
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES" size="Medium",STUDIO UNIVERSAL FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235112.ts
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD H265
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES" size="Medium",SYFY FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/107.ts
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD H265²
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES" size="Medium",SYFY FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235115.ts
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD²" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES",SYFY FHD²
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD²" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="CANAIS | FILMES E SERIES" size="Medium",SYFY FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235116.ts
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT Novelas FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" group-title="CANAIS | FILMES E SERIES",TNT Novelas FHD H265
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT Novelas FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TNT Novelas FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/108.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" group-title="CANAIS | FILMES E SERIES",TNT Novelas FHD H265²
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TNT Novelas FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235119.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD²" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" group-title="CANAIS | FILMES E SERIES",TNT Novelas FHD²
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD²" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TNT Novelas FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235120.ts
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/65.ts
@@ -726,21 +726,21 @@ http://smart646.com:80/341613/key5f0e5x0L/234510.ts
 http://smart646.com:80/341613/key5f0e5x0L/234511.ts
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/TLC.png" group-title="CANAIS | VARIEDADES",TLC FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/122.ts
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/tlc250.png" group-title="CANAIS | FILMES E SERIES",TLC FHD H265²
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/tlc250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TLC FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235126.ts
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD²" tvg-logo="http://www.rochagalaxia.live/logos/tlc250.png" group-title="CANAIS | FILMES E SERIES",TLC FHD²
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD²" tvg-logo="http://www.rochagalaxia.live/logos/tlc250.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TLC FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235127.ts
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES",TNT FHD H265
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TNT FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/123.ts
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES",TNT FHD H265²
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TNT FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235130.ts
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD²" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES",TNT FHD²
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD²" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TNT FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235131.ts
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FHD H265
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TNT SERIES FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/60.ts
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265²" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FHD H265²
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265²" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TNT SERIES FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235134.ts
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES FHD²" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SÉRIES FHD²
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES FHD²" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TNT SÉRIES FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235135.ts
 #EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="TRACE BRASUCA FHD H265" tvg-logo="https://rochagalaxia.live/logos/tracebrazuka250.png" group-title="CANAIS | MUSICA",TRACE BRASUCA FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/27445.ts
@@ -748,7 +748,7 @@ http://smart646.com:80/341613/key5f0e5x0L/27445.ts
 http://smart646.com:80/341613/key5f0e5x0L/235221.ts
 #EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL FHD²" tvg-logo="https://www.rochagalaxia.live/logos/travelboxbrasil.png" group-title="CANAIS | DOCUMENTARIOS",TRAVEL BOX BRAZIL FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235140.ts
-#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVELBOX BRASIL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/travelboxbrasil.png" group-title="CANAIS | FILMES E SERIES",TRAVELBOX BRASIL FHD H265
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVELBOX BRASIL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/travelboxbrasil.png" group-title="CANAIS | FILMES E SERIES" size="Medium",TRAVELBOX BRASIL FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/132.ts
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/APARECIDA.jpg" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235144.ts
@@ -780,11 +780,11 @@ http://smart646.com:80/341613/key5f0e5x0L/134.ts
 http://smart646.com:80/341613/key5f0e5x0L/235161.ts
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RATIMBUM FHD²" tvg-logo="https://www.rochagalaxia.live/logos/TVRATIMBUM.png" group-title="CANAIS | INFANTIS",TV RATIMBUM FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235162.ts
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL FHD H265
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES" size="Medium",UNIVERSAL CHANNEL FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/59.ts
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL FHD H265²
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES" size="Medium",UNIVERSAL CHANNEL FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235170.ts
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL FHD²
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES" size="Medium",UNIVERSAL CHANNEL FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235171.ts
 #EXTINF:-1 tvg-id="" tvg-name="Venus FHD" tvg-logo="http://www.rochagalaxia.live/logos/VENUS.png" group-title="CANAIS | XXX ADULTOS",Venus FHD
 http://smart646.com:80/341613/key5f0e5x0L/110.ts
@@ -796,11 +796,11 @@ http://smart646.com:80/341613/key5f0e5x0L/124.ts
 http://smart646.com:80/341613/key5f0e5x0L/235174.ts
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD²" tvg-logo="http://www.rochagalaxia.live/logos/VIVA.jpg" group-title="CANAIS | VARIEDADES",VIVA FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235175.ts
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD H265
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES" size="Medium",WARNER CHANNEL FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/58.ts
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD H265²
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES" size="Medium",WARNER CHANNEL FHD H265²
 http://smart646.com:80/341613/key5f0e5x0L/235178.ts
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD²
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD²" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES" size="Medium",WARNER CHANNEL FHD²
 http://smart646.com:80/341613/key5f0e5x0L/235179.ts
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png" group-title="CANAIS | MUSICA",WOOHOO FHD H265
 http://smart646.com:80/341613/key5f0e5x0L/125.ts
