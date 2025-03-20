@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml"
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="" size="Medium",Loco
+https://use23-0.playlist.live-video.net/v1/playlist/CqMFZJB7w7pcVodvZKIxtmX1opLswqo6KO0pMOeXcYKxZ0Nnt4WCGc_4ti_xmJ4eFLn_ePbGczPHcNGx33lfVJl3hbSs1Hy5MzeeSRFfk8Cvyi8-QvuS_6asmDcY8R0EWRZtfil16EkuVlio9J231rMf2z9gMF86F7cQLS0LW8G9NmZWY89daVKodVRjnlrUcTLclrtEipYcQ4XqngdNAAMDQStlKQONDCGjEltumG7E-jUzFbZkWE9CvU76in_FI_CZXHWdZ8MGiQQJqrByNebTvv0Nt9h8sVve09tU_nXkCeMQdQ_gMFIKIQd12rSfJHYgfpZw_0V8SttvjcuT-ia1_QfRm807UXhz-o2n2PJvUHhmPAJbn-qS6rJfWh9zEi0uMbwe0dzLcMMOqEmYYBHT4YIZFBFncpPVc5sgAtVRugmfG0nriGNXWil9D-e3WE2IuN1kbwQXuX6wqqH3w05pio8l402xdidh6HcNcQ34CDaisQUAvOB6boIJmPtn92ZHU8hz9rVSPzFtCOgf9OwdnrYq0uBrM1FCRCVFcWo0WLhGvVIr1w6RUSVMtCC_cn12wFIIkZG1Eb8LY6whKrJxc7sA3rA9QWsy2rKdk6bjpyUOtzPOGN9W15ULDrRgO3VcWICKBe7e9uNgHLpeOnOuRvYnc89ZVAW-W2_X4YyKRALwnyzr7dwi23eVKvdZL3lfNr0A8mjBdkW6rPxVS-YSXo-BN1dUR0AN7HcWHS0T_GHPwYMfT1o8J_wWIIMfY3VspOdb8gx5ztjL_s_bzR1IkLASxOHjcDqc63O0TDjC5bmXTF_wyMVMqgVMSy94VdEcxHGuKdc8SYiH9R-yAfhVgD-3xxODs3nxRJRL-2fyMnqV5Q6pVGOHSzQbDxhMYYzm4S2aGgwX66EVDswB-XBB5cIgASoJdXMtZWFzdC0yMOoL.m3u8
+
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES" size="Medium",WARNER CHANNEL FHD H265
 http://smart646.com:80/5785422393/933522/58.ts
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES" size="Medium",WARNER CHANNEL FHD H265²
