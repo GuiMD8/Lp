@@ -1,7 +1,7 @@
 EXTM3U
 
-#EXTINF:-1 tvg-id="Example" tvg-name="Premiere 1  (ALT)" tvg-logo="http://www.fontedoscanais.com/logos/canais/premiere.png" group-title="✨ C • PREMIERE",Premiere 1  (ALT)
-http://tvsbt.top:80/994536255/676754405/1771159
+#EXTINF:-1 tvg-id="Example" tvg-name="Premiere 1  (ALT)" tvg-logo="http://www.fontedoscanais.com/logos/canais/premiere.png" group-title="✨ C • PREMIERE",Premiere ESPN
+https://02.xn--n8jubh9cvb0227bshzaet7a.art/espn/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=b4f2eb2c3e7f685e02cef7937cb085c70c3e76d8-0471016a3f7fe5f0a824d11804a8b1ef-1758850030-1758846430
 #EXTINF:-1 tvg-id="24HAnimes" tvg-name="Premiere 1 HD" tvg-logo="http://www.fontedoscanais.com/logos/canais/premiere.png" group-title="✨ C • PREMIERE",Premiere 1 HD
 http://tvsbt.top:80/994536255/676754405/1769944
 #EXTINF:-1 tvg-id="Example" tvg-name="Premiere 1 SD" tvg-logo="http://www.fontedoscanais.com/logos/canais/premiere.png" group-title="✨ C • PREMIERE",Premiere 1 SD
