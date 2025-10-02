@@ -2,3 +2,20 @@ EXTM3U
 
 #EXTINF:-1 tvg-id="br#warner-channel-hd" tvg-name="Warner Channel FHD" tvg-logo="http://the-img.xyz/images/logos/warner-verde.png" group-title="Canais | Filmes e Series",Warner Channel FHD
 http://cnxfast.site:80/adri4no@gmail.com/eu10fiz15/966.ts
+
+
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://i.imgur.com/CM4YaHD.png" group-title="Canais | Premiere",PREMIERE CLUBES FHD
+http://cnxfast.site:80/adri4no@gmail.com/eu10fiz15/339651.ts
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="https://i.imgur.com/CM4YaHD.png" group-title="Canais | Premiere",PREMIERE CLUBES FHD²
+http://cnxfast.site:80/adri4no@gmail.com/eu10fiz15/1059055.ts
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="PREMIERE CLUBES H265" tvg-logo="https://i.imgur.com/CM4YaHD.png" group-title="Canais | Premiere",PREMIERE CLUBES H265
+http://cnxfast.site:80/adri4no@gmail.com/eu10fiz15/3161890.ts
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/CM4YaHD.png" group-title="Canais | Premiere",PREMIERE CLUBES HD
+http://cnxfast.site:80/adri4no@gmail.com/eu10fiz15/339652.ts
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="PREMIERE CLUBES HD²" tvg-logo="https://i.imgur.com/CM4YaHD.png" group-title="Canais | Premiere",PREMIERE CLUBES HD²
+http://cnxfast.site:80/adri4no@gmail.com/eu10fiz15/1059057.ts
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/CM4YaHD.png" group-title="Canais | Premiere",PREMIERE CLUBES SD
+http://cnxfast.site:80/adri4no@gmail.com/eu10fiz15/339653.ts
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="PREMIERE CLUBES SD²" tvg-logo="https://i.imgur.com/CM4YaHD.png" group-title="Canais | Premiere",PREMIERE CLUBES SD²
+http://cnxfast.site:80/adri4no@gmail.com/eu10fiz15/1059059.ts
+
